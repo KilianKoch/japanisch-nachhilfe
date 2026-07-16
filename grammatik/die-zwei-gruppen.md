@@ -7,7 +7,10 @@
 
 ## Worum geht's
 
-Japanische Wörter zerfallen in **zwei Lager**, und fast alles Weitere folgt daraus:
+**Man kann japanische Wörter als zwei Gruppen betrachten** — und wenn man das tut,
+fällt überraschend viel von selbst raus. Es ist eine Brille, keine Tatsache
+(siehe [Ehrlichkeitsnotiz](#ehrlichkeitsnotiz-die-einteilung-ist-eine-entscheidung)
+unten), aber eine, die trägt.
 
 **Gruppe A — kann sich nicht selbst behaupten.** 学生（がくせい）ist ein Ding, keine
 Aussage. Es braucht jemanden, der das Behaupten übernimmt: **だ**.
@@ -17,7 +20,7 @@ Aussage. Es braucht jemanden, der das Behaupten übernimmt: **だ**.
 Sätze. Kein だ nötig.
 → い-Adjektive und Verben.
 
-Das ist die ganze Idee. Der Rest fällt daraus.
+Das ist die ganze Idee. Der Rest folgt.
 
 ## Die Logik
 
@@ -97,9 +100,10 @@ In じゃない／だった steckt es ohnehin schon drin.
 だ ist also nicht „optional" — es ist **die Form unter allem**, die im einfachsten
 Fall unsichtbar wird.
 
-## Ehrlichkeitsnotiz: die Einteilung ist umstritten
+## Ehrlichkeitsnotiz: die Einteilung ist eine Entscheidung
 
-Diese zwei Gruppen sind **eine Analyse, keine Naturwahrheit** — und die japanische
+Deshalb oben „man **kann** sie als zwei Gruppen betrachten" und nicht „es **gibt**
+zwei Gruppen". Es ist **eine Analyse, keine Naturwahrheit** — und die japanische
 Schulgrammatik macht es andersherum.
 
 Im 国文法（こくぶんぽう）, was Japaner in der Mittelstufe lernen:

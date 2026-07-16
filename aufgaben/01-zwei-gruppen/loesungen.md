@@ -114,3 +114,52 @@ Gruppe A ist dagegen immer だった, い-Adjektive immer かった. Beide ohne 
 
 **Muster:** 4, 7 und 8 sind derselbe Fehler — Gruppe-A-Werkzeug an einem
 Gruppe-B-Wort. Wer das sieht, hat die Stunde.
+
+---
+
+# Lesetext — Lösungen
+
+## 1. 牛？
+
+1. Ein 牛 (eine Kuh) — behauptet Takeshi jedenfalls.
+2. 元気じゃない · 水、飲まない · 食べない · 立たない (vier, drei reichten)
+3. それ、牛じゃない。大きい犬。 — „Das ist keine Kuh. Ein großer Hund."
+4. Verneinungen:
+
+| | | Gruppe |
+|---|---|---|
+| 犬**じゃない** | Nomen + だ verneint | **A** |
+| 元気**じゃない** | な-Adj + だ verneint | **A** |
+| 飲**ま**ない | う-Verb, む→ま | **B** |
+| 食べ**ない** | る-Verb, る weg | **B** |
+| 立**た**ない | う-Verb, つ→た | **B** |
+| 牛**じゃない** | Nomen + だ verneint | **A** |
+
+## 2. 父の本
+
+1. Nein — 高くない。 Es ist alt, nicht teuer.
+2. Kens Vater. 父の本。
+3. Nein — 日本人じゃない。 Er spricht aber Japanisch und unterrichtet es.
+4. Die vier Anschlüsse:
+
+| | warum |
+|---|---|
+| 日本**の**本 | 日本 ist **Nomen** → braucht の |
+| 古い本 | 古い ist **い-Adj** → braucht nichts |
+| 大切**な**本 | 大切 ist **な-Adj** → braucht な |
+| 父**の**本 | 父 ist **Nomen** → braucht の |
+
+## Zum Nachdenken
+
+**Warum 日本語の先生 und nicht 日本語な先生?**
+Weil 日本語 ein **Nomen** ist, kein な-Adjektiv. „Lehrer *von* Japanisch" — das ist
+der Genitiv, also の. な wäre nur richtig, wenn 日本語 eine Eigenschaft wäre, die man
+jemandem zuschreibt. Ist es aber nicht: es ist ein Ding.
+
+**Wo ist das だ in 父、日本語の先生。?**
+Weggefallen. Ausgeschrieben wäre es 父は日本語の先生**だ**。 — im lockeren Sprechen
+fällt sowohl das は als auch das だ weg. Übrig bleibt nur die nackte Gegenüberstellung
+„Vater — Japanischlehrer", und der Rest ergibt sich aus der Situation.
+
+Genau deshalb ist だ **die Form unter allem**: Man sieht sie hier nicht, aber sie ist
+der Grund, warum der Satz überhaupt eine Behauptung ist und nicht zwei Wörter.
