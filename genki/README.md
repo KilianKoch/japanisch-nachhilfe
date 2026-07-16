@@ -7,6 +7,10 @@ Eine Datei pro Kapitel: `kapitel-01.md`, `kapitel-02.md`, …
 Das Buch selbst liegt aus urheberrechtlichen Gründen nicht im Repo — hier stehen nur
 Verweise. Siehe [`../ressourcen/`](../ressourcen/).
 
+Welche Grammatik in welchem Kapitel steckt, steht im
+[Grammatikindex](grammatik-index.md) — damit lässt sich ein Blatt planen, ohne ins
+Buch zu schauen.
+
 ## Kapitelübersicht (会話・文法編)
 
 Seitenzahlen nach Genki I, damit wir in der Stunde schnell dieselbe Stelle finden.
