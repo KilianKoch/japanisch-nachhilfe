@@ -20,6 +20,7 @@ Vokabeln, die dein WaniKani-Level noch nicht abdeckt, stehen in den Aufgaben mit
 - [`grammatik/`](grammatik/) — Erklärungen zu einzelnen Grammatikpunkten
 - [`vokabeln/`](vokabeln/) — Vokabellisten, nach Thema und WaniKani-Level
 - [`aufgaben/`](aufgaben/) — Übungsblätter mit Lösungen
+- [`ressourcen/`](ressourcen/) — Tae Kims Grammar Guide als PDF, Links
 
 ## Wie du damit arbeitest
 
@@ -32,3 +33,10 @@ Vokabeln, die dein WaniKani-Level noch nicht abdeckt, stehen in den Aufgaben mit
 - Japanisch immer in Kana/Kanji, Romaji nur wo es wirklich nötig ist.
 - Neue Vokabeln im Format: 漢字（かんじ）— Bedeutung
 - Kanji über deinem WaniKani-Level bekommen Furigana.
+
+## Lizenz
+
+[CC BY-NC-SA 4.0](LICENSE) — passend zu Tae Kims Guide, an dem sich die Erklärungen orientieren.
+
+Das Genki-Lehrbuch liegt aus urheberrechtlichen Gründen **nicht** in diesem Repo; wir
+verweisen nur auf Kapitel. Siehe [`ressourcen/`](ressourcen/).

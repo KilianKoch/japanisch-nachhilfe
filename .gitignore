@@ -1,3 +1,9 @@
+# === Urheberrechtlich geschütztes Material — NIEMALS committen ===
+# Genki ist ein kommerzielles Lehrbuch. Liegt nur lokal, damit wir damit arbeiten können.
+_lokal-NICHT-PUSHEN/
+*Genki*
+*genki*.pdf
+
 # Editor / OS
 .DS_Store
 .vscode/
