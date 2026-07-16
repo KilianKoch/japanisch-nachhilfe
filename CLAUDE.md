@@ -1,5 +1,10 @@
 # Arbeitsweise in diesem Repo
 
+## Pushen nur nach Freigabe
+
+**Nicht pushen, ohne vorher zu fragen.** Kilian entscheidet, was öffentlich wird.
+Lokal committen ist ok, `git push` erst nach ausdrücklichem OK.
+
 ## Genki-PDF: einmal lesen, immer speichern
 
 Das Genki-PDF liegt in `_lokal-NICHT-PUSHEN/` und ist ein reiner Scan — jede
