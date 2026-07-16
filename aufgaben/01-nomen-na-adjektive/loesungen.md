@@ -36,7 +36,37 @@ oder ein な-Adjektiv steht — dieselbe Maschine. Genau das ist der Punkt der S
 
 **Muster:** Blank am Satzende → weg. Sobald etwas folgt → sichtbar.
 
-## 4. Welche Klasse?
+## 4. Umschalten: plain → höflich
+
+1. 学生。→ 学生**です**。
+2. 元気じゃない。→ 元気じゃない**です**。
+3. 犬だった。→ 犬**でした**。 ← **die Achtung-Stelle**
+4. しずかじゃなかった。→ しずかじゃなかった**です**。
+5. 先生だ。→ 先生**です**。 — です *ersetzt* だ, kommt nicht dazu.
+6. きれいだった。→ きれい**でした**。 ← auch hier
+
+**Muster:** überall です dranhängen — außer bei だった, das wird でした.
+~~犬だったです~~ ✗
+
+## 5. Umschalten: höflich → plain
+
+1. 水です。→ 水。
+2. 日本人じゃないです。→ 日本人じゃない。
+3. 大切でした。→ 大切**だった**。 ← でした geht zurück zu だった, nicht zu でしただ
+4. 上手じゃなかったです。→ 上手じゃなかった。
+
+## 6. じゃ oder では?
+
+| | locker | steifer |
+|---|---|---|
+| plain | 1. 学生じゃない | 3. 学生ではない |
+| höflich | 4. 学生じゃないです | 2. 学生ではありません |
+
+**Der Punkt:** じゃ ist nichts anderes als では zusammengezogen. Die zwei Regler —
+じゃ/では (gesprochen/geschrieben) und ない/です (plain/höflich) — sind unabhängig
+voneinander. Vier Formen, zwei Entscheidungen.
+
+## 7. Welche Klasse?
 
 1. 犬 — **N**
 2. 元気 — **な**
@@ -50,23 +80,27 @@ oder ein な-Adjektiv steht — dieselbe Maschine. Genau das ist der Punkt der S
 い-Adjektive sind original japanisch. きれい und きらい sehen nur so aus, weil das い
 zum Wortstamm gehört und kein Suffix ist.
 
-## 5. Übersetzen
+## 8. Übersetzen
 
 1. 元気な子。
 2. 日本の車。
 3. 学生じゃない。
-4. 水はきれいだった。 → ohne は: **きれいだった。** (は kommt später)
-5. 先生、元気じゃなかった。 → ohne は schlicht: **元気じゃなかった。**
-6. 大切な本。
-7. 父の犬。
-8. しずかじゃなかった。
+4. きれいだった。
+5. 大切な本。
+6. 父の犬。
+7. 学生です。
+8. しずかじゃなかったです。
+9. 元気でした。
+10. 本じゃないです。
 
-> Anmerkung: Ohne は/も lassen sich Themen noch nicht markieren — die Sätze 4, 5, 8
-> stehen deshalb nackt da. Das ist Absicht, das kommt in Stunde 2.
+> Ohne は/も lassen sich Themen noch nicht markieren — 4, 8, 9 stehen deshalb nackt
+> da. Absicht; kommt in Stunde 2.
 
-## 6. Fehler finden
+## 9. Fehler finden
 
 1. 元気**の**人。→ 元気**な**人。 — 元気 ist な-Adjektiv, nimmt な.
 2. きれ**くない**。→ きれい**じゃない**。 — きれい ist な-Adjektiv, keine い-Konjugation.
 3. 日本**な**車。→ 日本**の**車。 — 日本 ist Nomen, nimmt の.
 4. 学生じゃなかった**だ**。→ 学生じゃなかった。 — das だ steckt schon in だった.
+5. 学生**だったです**。→ 学生**でした**。 — die eine Unregelmäßigkeit im System.
+6. 先生**だです**。→ 先生**です**。 — です ersetzt だ, kommt nicht dazu.

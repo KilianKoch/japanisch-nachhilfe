@@ -53,7 +53,44 @@ wegfällt, lass es weg.
 5. 犬 ＿ から、…
 6. 先生 ＿ った。
 
-## 4. Welche Klasse?
+## 4. Umschalten: plain → höflich
+
+Schreib jeden Satz höflich. **Achtung bei einem davon.**
+
+1. 学生（がくせい）。
+2. 元気（げんき）じゃない。
+3. 犬だった。
+4. しずかじゃなかった。
+5. 先生（せんせい）だ。
+6. きれいだった。
+
+## 5. Umschalten: höflich → plain
+
+Und zurück.
+
+1. 水です。
+2. 日本人（にほんじん）じゃないです。
+3. 大切（たいせつ）でした。
+4. 上手じゃなかったです。
+
+## 6. じゃ oder では?
+
+Ordne ein: Was ist locker (gesprochen), was steifer (geschrieben)? Und was ist
+plain, was höflich?
+
+1. 学生じゃない
+2. 学生ではありません
+3. 学生ではない
+4. 学生じゃないです
+
+Trag sie ins Raster ein:
+
+| | locker | steifer |
+|---|---|---|
+| plain | | |
+| höflich | | |
+
+## 7. Welche Klasse?
 
 Nomen (N), な-Adjektiv (な) oder い-Adjektiv (い)? Vorsicht — nicht nach dem
 letzten Buchstaben gehen.
@@ -67,18 +104,22 @@ letzten Buchstaben gehen.
 7. 水
 8. 大切
 
-## 5. Übersetzen
+## 8. Übersetzen
+
+1.–6. locker (plain), 7.–10. höflich.
 
 1. Ein munteres Kind.
 2. Das Auto aus Japan.
 3. Ich bin kein Student.
 4. Das Wasser war sauber.
-5. Der Lehrer war nicht munter.
-6. Ein wichtiges Buch.
-7. Vaters Hund.
-8. Das Kind war nicht leise.
+5. Ein wichtiges Buch.
+6. Vaters Hund.
+7. Ich bin Student. *(höflich)*
+8. Das war nicht leise. *(höflich)*
+9. Der Hund war munter. *(höflich)*
+10. Das ist kein Buch. *(höflich)*
 
-## 6. Fehler finden
+## 9. Fehler finden
 
 Jeder Satz hat einen Fehler. Finde und korrigiere ihn.
 
@@ -86,3 +127,5 @@ Jeder Satz hat einen Fehler. Finde und korrigiere ihn.
 2. きれくない。
 3. 日本な車。
 4. 学生じゃなかっただ。
+5. 学生だったです。
+6. 先生だです。

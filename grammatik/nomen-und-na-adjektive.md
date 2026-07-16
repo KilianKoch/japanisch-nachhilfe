@@ -75,6 +75,42 @@ kein zusätzliches だ.
 Also: だ ist nicht „optional". Es ist **die Form, die unter allem liegt** und im
 einfachsten Fall unsichtbar wird.
 
+## Höflichkeit ist nur ein Schalter
+
+です ist **kein neuer Stoff.** Wenn die Maschine oben steht, legt man einen Hebel um:
+
+| | plain | höflich |
+|---|---|---|
+| ist | 学生（だ） | 学生**です** |
+| ist nicht | 学生じゃない | 学生じゃない**です** |
+| war | 学生だった | 学生**でした** |
+| war nicht | 学生じゃなかった | 学生じゃなかった**です** |
+
+Drei von vier Zeilen sind schlicht „です dranhängen". **Nur だった → でした ist
+unregelmäßig** — das ist die einzige Stelle, die man sich merken muss.
+~~学生だったです~~ ist falsch.
+
+> Es gibt auch 学生じゃありません. Das ist eine Ecke steifer, aber genau genommen gar
+> keine Kopula mehr, sondern ある + ません. Kennen: ja. Benutzen: später.
+
+## じゃ oder では?
+
+じゃ **ist** では — nur zusammengezogen. Das ist also kein zweites Wort, sondern
+dieselbe Form in schnell.
+
+Damit hat man **zwei unabhängige Regler**, die nichts miteinander zu tun haben:
+
+| | locker | steifer |
+|---|---|---|
+| plain | 学生**じゃ**ない | 学生**では**ない |
+| höflich | 学生**じゃ**ないです | 学生**では**ありません |
+
+- **じゃ ↔ では** = gesprochen ↔ geschrieben/förmlich
+- **ない ↔ です** = plain ↔ höflich
+
+Vier Formen, aber nur zwei Entscheidungen. Wer das als Vokabelliste lernt, lernt
+viermal so viel wie nötig.
+
 ## Abgrenzung
 
 Warum „fast eine eigene Gruppe"? Weil die anderen es anders machen:
@@ -95,3 +131,6 @@ Drei Maschinen. Wir lernen erst die eine ganz, dann die nächste.
   ゆうめい, きらい.
 - **の und な verwechseln**: ~~元気の人~~ / ~~日本な車~~
 - **だ überall hinschreiben**: 学生だ。als neutrale Aussage klingt hart.
+- **だったです**: ~~学生だったです~~ → 学生**でした**。 Die einzige Unregelmäßigkeit im
+  ganzen System — und deshalb die, die am häufigsten passiert.
+- **だです**: ~~学生だです~~ ✗ — です *ersetzt* だ, es kommt nicht dazu.
