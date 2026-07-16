@@ -1,99 +1,104 @@
 # Blatt 1 — Gesprächsteil (für die Stunde)
 
-Nicht zum Vorbereiten — das machen wir zusammen. Der schriftliche Teil steht in
-[`aufgaben.md`](aufgaben.md).
+Nicht zum Vorbereiten — das machen wir zusammen. Schriftlich ist
+[`aufgaben.md`](aufgaben.md), der Stoff steht in [`inhalt.md`](inhalt.md).
 
-**Neue Vokabeln:** うん — ja (locker) · ううん — nein (locker) · これ — das hier ·
-それ — das da · あれ — das dort
+## Spielregeln
 
-> はい／いいえ gibt es auch, ist aber die höfliche Ebene. Locker sind うん／ううん.
-> Höflichkeit machen wir in einer eigenen Stunde.
+**Fragen:** einfach die Stimme heben. Kein か, kein Fragewort.
+> 大きい？ · 犬？ · 立つ？
+
+**Antworten:** das Prädikat wiederholen — positiv oder verneint.
+> 大きい？ → 大きい。／ 大きくない。
+
+**Es gibt heute kein Wort für „nein".** ええ (ja) haben wir, いいえ und うん／ううん
+sind noch nicht auf deinem Level. Macht nichts: Verneinung *ist* die Antwort. Ist
+ohnehin japanischer als „nein" zu sagen.
+
+**これ** = das hier. それ／あれ (das da / das dort) kommen später — bis dahin zeigen
+wir auf Sachen in Reichweite.
 
 ---
 
-## A. 元気？
+## A. Aufwärmen — Prädikat wiederholen
 
-Der natürlichste Kurzdialog des Japanischen — und er besteht zufällig genau aus
-dem, was wir heute gemacht haben.
+Ich frage, du antwortest. Nur wiederholen, nichts Neues.
 
-> A：元気（げんき）？
-> B：うん、元気。
-> A：学生（がくせい）？
-> B：ううん、学生じゃない。先生（せんせい）。
+> A：大きい？ → B：大きい。
+> A：小さい？ → B：小さくない。
+> A：犬？ → B：犬じゃない。
+> A：立つ？ → B：立たない。
+> A：出る？ → B：出る。
 
-Jetzt geht auch Gruppe B:
+**Achte drauf, wo じゃない kommt und wo ない／くない.** Das ist der ganze Unterschied
+zwischen explizit und implizit — nur eben mit dem Mund statt mit dem Stift.
 
-> A：飲（の）む？
-> B：ううん、飲まない。
-> A：食（た）べる？
-> B：うん、食べる。
+## B. これ、犬？
 
-### Rollenkarten
-
-Du ziehst eine Karte, ich frage. Antworte nach der Karte — **nicht nach der Wahrheit.**
-
-| | 学生？ | 元気？ | 食べる？ | 飲む？ |
-|---|---|---|---|---|
-| **1** | ja | ja | ja | nein |
-| **2** | nein → 先生 | nein | nein | ja |
-| **3** | ja | nein | ja | ja |
-| **4** | nein → 先生 | ja | nein | nein |
-
-Achte drauf, wo じゃない kommt und wo ない — das ist genau der Unterschied, um den
-es heute ging.
-
-## B. Steckbrief
-
-| | 学生？ | 元気？ | 食べる？ |
-|---|---|---|---|
-| ケン | ✓ | ✗ | ✓ |
-| ユキ | ✗ → 先生 | ✓ | ✗ |
-| アンナ | ✓ | ✓ | ✗ |
-| たけし | ✗ → 先生 | ✗ | ✓ |
-
-**B1 — Beschreiben.** Sag zu jeder Person alle drei Sachen.
-> ケン、学生。元気じゃない。食べる。
-
-**B2 — Frage und Antwort.** Ich frage, du antwortest nach der Tabelle.
-Achtung: **manche Fragen stimmen, manche nicht.**
-
-1. ケン、学生？
-2. ケン、元気？
-3. ユキ、学生？
-4. ユキ、食べる？
-5. アンナ、元気？
-6. アンナ、食べる？
-7. たけし、先生？
-8. たけし、飲む？
-
-## C. これ、犬？
-
-Zeig auf irgendwas im Raum und frag. Geht mit allem, was wir an Vokabeln haben.
+Ich zeig auf was und frag. Du korrigierst mich.
 
 > A：これ、犬？
-> B：ううん、犬じゃない。牛（うし）。
-
-Und mit Adjektiven:
-
+> B：犬じゃない。牛（うし）。
+>
 > A：これ、大きい？
-> B：ううん、大きくない。小さい。
+> B：大きくない。小さい。
+>
+> A：これ、水？
+> B：水じゃない。コーヒー。
 
-これ = bei mir · それ = bei dir · あれ = weder noch
+Dann tauschen wir. Nimm alles, was rumliegt: 本・水・手・目・木・字（じ）・玉・リンゴ・コーヒー
 
-## D. Beschreib mir was
+## C. Stapeln — laut
 
-Nimm einen Gegenstand im Raum und sag drei Sachen dazu — aber benutz **beide
-Gruppen**.
+Nimm einen Gegenstand und bau eine Kette drumrum. Erst kurz, dann länger.
 
-> 本。古（ふる）い。大きくない。大切（たいせつ）な本。
+> 本。
+> 古（ふる）い本。
+> 大切（たいせつ）な古い本。
+> 父（ちち）の大切な古い本。
 
-Das Ziel: einmal ein の/な-Wort und einmal ein Wort ohne Kleber, im selben Atemzug.
+Jetzt du — nimm was aus dem Raum und stapel drei Glieder drauf. **Jedes Glied
+entscheidet für sich**, ob es の, な oder nichts braucht.
 
-## E. Selbstvorstellung, locker
+Bausteine: 父（ちち）・母（はは）・友人（ゆうじん）・日本 ｜ 大切（たいせつ）・上手・下手 ｜
+大きい・小さい・古い・丸い・広（ひろ）い ｜ 本・犬・玉・字（じ）・手・水
 
-Stell dich vor — nur mit dem, was wir heute können.
+## D. Hörst du den Unterschied? ⚑
 
-> ケン。学生じゃない。先生。日本人じゃない。元気。
+Ich sage zwei Ketten aus **denselben vier Wörtern**. Sag mir, was sich ändert.
 
-→ Wenn dir auffällt, dass das noch kein richtiger Text ist: stimmt. Dafür fehlen
+> (a) 父（ちち）の大切（たいせつ）な古（ふる）い本
+> (b) 大切（たいせつ）な父（ちち）の古（ふる）い本
+
+Wer ist in (b) wichtig — der Vater oder das Buch?
+
+Dann drehen wir's mit anderen Wörtern durch:
+
+> 母（はは）の上手な丸い字（じ）／ 上手な母の丸い字
+> 友人（ゆうじん）の大切な小さい犬 ／ 大切な友人の小さい犬
+
+**Das Ohr merkt es schneller als das Auge.** の sucht sich das nächste Nomen — und
+wenn eins danebensteht, nimmt es das.
+
+## E. Verneint stapeln ⚑
+
+> A：大切（たいせつ）な本？
+> B：大切じゃない本。
+>
+> A：大きい犬？
+> B：大きくない犬。
+>
+> A：出る人？
+> B：出ない人。
+
+Beim ersten Paar passiert was, das du erklären können solltest: **Wo ist das な hin?**
+
+## F. Beschreib mir was
+
+Such dir einen Gegenstand im Raum aus und sag mir drei Sachen dazu — aber benutz
+**beide Gruppen**, einmal explizit und einmal implizit.
+
+> 本。父（ちち）の本。古（ふる）い。大切（たいせつ）じゃない。
+
+→ Wenn dir auffällt, dass das noch keine richtigen Sätze sind: stimmt. Dafür fehlen
 は und die Verb-Vergangenheit. Kommt beides.

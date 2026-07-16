@@ -1,0 +1,54 @@
+% Gemeinsame Praeambel fuer alle Blaetter.
+% Einbinden mit \input{../../stil.tex} — Pfad ist relativ zum Kompilierordner.
+% Kompiliert wird mit lualatex (wegen luatexja).
+
+\usepackage[ngerman]{babel}
+\usepackage[haranoaji]{luatexja-preset}
+\usepackage{luatexja-ruby}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage[most]{tcolorbox}
+\usepackage{enumitem}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{multicol}
+\usepackage{amssymb}
+\usepackage{needspace}
+
+% Gedankenstriche als LATEINISCHE Zeichen behandeln.
+% luatexja haelt sie sonst fuer Japanisch — und weil japanische Zeichen
+% keine Leerzeichen brauchen, frisst es den Zeilenumbruch danach:
+% "Nomen —und wenn" statt "Nomen — und wenn".
+\ltjdefcharrange{100}{"2013,"2014}
+\ltjsetparameter{jacharrange={-100}}
+\graphicspath{{../../bilder/}}
+
+\definecolor{akzent}{HTML}{1F4E79}
+\definecolor{implizit}{HTML}{1B7A43}
+\definecolor{explizit}{HTML}{B3541E}
+\definecolor{hell}{HTML}{F4F6F8}
+
+\addtokomafont{disposition}{\color{akzent}}
+\setkomafont{title}{\color{akzent}\bfseries}
+
+\newcommand{\impl}{\textcolor{implizit}{\textbf{implizit}}}
+\newcommand{\expl}{\textcolor{explizit}{\textbf{explizit}}}
+\newcommand{\jterm}[2]{\ruby{#1}{#2}}
+
+% Deutsche Anfuehrungszeichen: babel-Befehle statt Unicode.
+% Sonst zwei Probleme: ASCII-" ist bei ngerman ein Umlaut-Shorthand
+% ("o -> oe), und luatexja haelt Unicode-Quotes fuer Japanisch und
+% setzt Abstand drumrum.
+\newcommand{\zitat}[1]{\glqq #1\grqq{}}
+
+% Schreiblinie fuer Antworten
+\newcommand{\lin}[1][4cm]{\rule[-0.5em]{#1}{0.4pt}}
+
+\newtcolorbox{merke}[1][]{
+  enhanced, colback=hell, colframe=akzent,
+  boxrule=0pt, leftrule=3pt, arc=0pt, outer arc=0pt,
+  left=8pt, right=8pt, top=6pt, bottom=6pt,
+  #1
+}

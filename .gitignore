@@ -19,3 +19,6 @@ _lokal-NICHT-PUSHEN/
 *.log
 *.out
 *.synctex.gz
+
+# LaTeX-Hilfsdateien
+*.ltjruby
