@@ -1,0 +1,15 @@
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# Obsidian
+.obsidian/
+
+# LaTeX / PDF-Build, falls wir Blätter mal setzen
+*.aux
+*.log
+*.out
+*.synctex.gz
