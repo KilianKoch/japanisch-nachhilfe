@@ -1,7 +1,10 @@
-# Blatt 1 — Nomen und な-Adjektive
+# Blatt 1 — Nomen und な-Adjektive (schriftlich)
 
 **Grammatik:** [Nomen und な-Adjektive](../../grammatik/nomen-und-na-adjektive.md)
 **Kanji:** bis WaniKani Level 2 ohne Furigana, alles darüber mit.
+
+> Der Gesprächsteil steht in [`gespraech.md`](gespraech.md) — den machen wir in der
+> Stunde, nicht vorher.
 
 ---
 
